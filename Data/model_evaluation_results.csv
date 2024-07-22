@@ -1,0 +1,5 @@
+,Best Parameters,Cross-Validation R-squared Score,Test R-squared Score
+Set 1,"{'max_depth': 20, 'min_samples_split': 2, 'n_estimators': 300}",0.9990254411689946,0.9992399833955732
+Set 2,"{'max_depth': 30, 'min_samples_split': 2, 'n_estimators': 300}",0.9977887464147279,0.9974400297409246
+Set 3,"{'max_depth': 20, 'min_samples_split': 2, 'n_estimators': 200}",0.9990031066897247,0.9991424302540433
+Set 4,"{'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 300}",0.9999208369395056,0.9999354840456647
