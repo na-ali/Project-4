@@ -18,7 +18,7 @@ House prices in the UK are influenced by various factors, including property typ
 
 The data used in this project is sourced from the UK House Price Index. It includes information on average prices, sales volumes, and other relevant metrics for different types of properties across various regions in the UK.
 
-![alt text](<Screenshot 2024-07-22 202208-1.png>)
+![alt text](Output/Screenshot_2024-07-22_202208-1.png)
 ![alt text](Output/by_region.png)
 
 ### Languages and Tools
