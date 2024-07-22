@@ -18,7 +18,8 @@ House prices in the UK are influenced by various factors, including property typ
 
 The data used in this project is sourced from the UK House Price Index. It includes information on average prices, sales volumes, and other relevant metrics for different types of properties across various regions in the UK.
 
-![alt text](../Output/by_region.png)
+![alt text](<Screenshot 2024-07-22 202208-1.png>)
+![alt text](Output/by_region.png)
 
 ### Languages and Tools
 
@@ -55,13 +56,13 @@ The data used in this project is sourced from the UK House Price Index. It inclu
  - Hyperparameter Tuning: Use GridSearchCV for hyperparameter tuning.
  - Model Evaluation: Evaluate the models using R-squared score and other relevant metrics.
 
-![alt text](../Output/learning_curve.png)
+![alt text](Output/learning_curve.png)
 
 ## Conclusion
 
 The machine learning models were able to predict house prices with high accuracy. The primary factors affecting house prices were identified as the type of property, regional differences, and historical trends. The models demonstrated robust predictive power, which can be valuable for various stakeholders in the housing market.
 
-![alt text](../Output/actual_vs_predicted.png)
+![alt text](Output/actual_vs_predicted.png)
 
 ## Ethical consideration
 
