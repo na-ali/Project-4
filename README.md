@@ -18,6 +18,7 @@ House prices in the UK are influenced by various factors, including property typ
 
 The data used in this project is sourced from the UK House Price Index. It includes information on average prices, sales volumes, and other relevant metrics for different types of properties across various regions in the UK.
 
+![alt text](../Output/by_region.png)
 
 ### Languages and Tools
 
@@ -30,10 +31,10 @@ The data used in this project is sourced from the UK House Price Index. It inclu
 - **Matplotlib**: For creating static, interactive, and animated visualizations in Python.
 - **Seaborn**: For making statistical graphics in Python.
 - **Scikit-learn**: For machine learning model building, evaluation, and hyperparameter tuning.
-- **Spark**:
-- **XGBRegressor**:
-- **SparkSession**:
-- **os**:
+- **Spark**:For distributed data processing.
+- **XGBRegressor**:For gradient boosting regression.
+- **SparkSession**:For initializing and managing Spark applications.
+- **os**: For interacting with the operating system.
 
 #### Platforms:
 
@@ -54,9 +55,13 @@ The data used in this project is sourced from the UK House Price Index. It inclu
  - Hyperparameter Tuning: Use GridSearchCV for hyperparameter tuning.
  - Model Evaluation: Evaluate the models using R-squared score and other relevant metrics.
 
+![alt text](../Output/learning_curve.png)
+
 ## Conclusion
 
 The machine learning models were able to predict house prices with high accuracy. The primary factors affecting house prices were identified as the type of property, regional differences, and historical trends. The models demonstrated robust predictive power, which can be valuable for various stakeholders in the housing market.
+
+![alt text](../Output/actual_vs_predicted.png)
 
 ## Ethical consideration
 
@@ -72,4 +77,9 @@ When building predictive models, it is important to consider ethical implication
 
     4. power Bi - https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads 
 
+## Packages Required
+
+To run the code and reproduce the results, you will need the following Python packages:
+
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost pyspark
 
