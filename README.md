@@ -4,8 +4,6 @@
 
 This project contains several Jupyter notebooks focused on analyzing factors affecting house prices in the UK, selecting relevant features, and evaluating different models. The analysis is divided into three main notebooks, each covering specific aspects of the overall project.
 
-The aims to predict house prices in the UK using machine learning models. The goal is to identify the primary factors affecting house prices and to build a model that can accurately predict these prices based on various features derived from the UK House Price Index dataset.
-
 ## Team Members 
     - Najma Ali
     - Sheyma Mukhtar
@@ -33,6 +31,9 @@ The data used in this project is sourced from the UK House Price Index. It inclu
 - **Seaborn**: For making statistical graphics in Python.
 - **Scikit-learn**: For machine learning model building, evaluation, and hyperparameter tuning.
 - **Spark**:
+- **XGBRegressor**:
+- **SparkSession**:
+- **os**:
 
 #### Platforms:
 
